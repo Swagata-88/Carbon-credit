@@ -71,6 +71,12 @@ The contract allows querying of carbon credit balances for any address.
 **Contract Address:**
 CBUTLUK3JC3VGNI5HLT23HYOY2RZFU6P2QLYOOEPGAEZD42M724Z55DF
 
+---
+
+## Deployment Link
+
+https://stellar.expert/explorer/testnet/contract/CBUTLUK3JC3VGNI5HLT23HYOY2RZFU6P2QLYOOEPGAEZD42M724Z55DF
+
 Note: Ensure the correct Stellar network configuration before interacting with the contract.
 
 ---
@@ -104,9 +110,3 @@ Contributions are welcome. You can fork the repository, open issues, or submit p
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-## Deployment Link
-
-https://stellar.expert/explorer/testnet/contract/CBUTLUK3JC3VGNI5HLT23HYOY2RZFU6P2QLYOOEPGAEZD42M724Z55DF
